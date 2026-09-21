@@ -1,0 +1,55 @@
+
+# MLflow Artifacts & Tracking Database
+# MLflow creates local folders for artifacts and metrics
+mlruns/
+mlartifacts/
+.trash/
+*.db
+*.sqlite
+
+
+# Heavy Model Weights & Checkpoints
+# Never commit raw weights; log them as artifacts in MLflow/remote storage
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+*.pkl
+*.h5
+checkpoints/
+
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+
+# Datasets & Local Storage
+data/
+raw_data/
+processed_data/
+*.csv
+*.parquet
+*.jsonl
+
+
+# Secrets & Configuration
+.env
+.env.local
+*.pem
+*.key
+
+
+# IDE & System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
