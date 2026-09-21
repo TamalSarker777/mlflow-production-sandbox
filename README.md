@@ -1,4 +1,4 @@
-# 🧪 MLOps & LLMOps Learning Lab
+#  MLOps & LLMOps Learning Lab
 
 A hands-on learning repository documenting my journey into MLOps and LLMOps engineering. This project tracks practical experiments, architectural notes, and reproducible implementations using **MLflow**, **PyTorch**, and modern deployment tools.
 
@@ -6,7 +6,7 @@ A hands-on learning repository documenting my journey into MLOps and LLMOps engi
 
 ---
 
-## 🎯 Learning Roadmap & Milestones
+##  Learning Roadmap & Milestones
 
 - [ ] **Milestone 1: Environment & Tooling Setup** (Git hygiene, virtual environments, MLflow tracking server)
 - [ ] **Milestone 2: Traditional ML Lifecycle** (PyTorch experiment tracking, metric logging, model artifact registration)
@@ -16,7 +16,7 @@ A hands-on learning repository documenting my journey into MLOps and LLMOps engi
 
 ---
 
-## 🏗️ Repository Structure
+##  Repository Structure
 
 ```text
 ├── traditional-ml/          # Classical ML experiments & lifecycle management
