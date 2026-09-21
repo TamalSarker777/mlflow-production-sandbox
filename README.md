@@ -8,7 +8,7 @@ A hands-on learning repository documenting my journey into MLOps and LLMOps engi
 
 ## 🎯 Learning Roadmap & Milestones
 
-- [x] **Milestone 1: Environment & Tooling Setup** (Git hygiene, virtual environments, MLflow tracking server)
+- [ ] **Milestone 1: Environment & Tooling Setup** (Git hygiene, virtual environments, MLflow tracking server)
 - [ ] **Milestone 2: Traditional ML Lifecycle** (PyTorch experiment tracking, metric logging, model artifact registration)
 - [ ] **Milestone 3: Model Registry & Staging** (Model versioning, staging-to-production transitions)
 - [ ] **Milestone 4: LLMOps Foundations** (Agent tracing, latency/token logging, automated evaluation)
